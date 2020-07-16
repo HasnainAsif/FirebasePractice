@@ -1,0 +1,6 @@
+{
+  "projects": {
+    "default": "fir-exmp-7dbd3",
+    "staging": "wimetrix-inventory"
+  }
+}
